@@ -1,4 +1,4 @@
-# Patika-HTML-Last-Task
+# Patika-HTML-Last-Project
 
 Bu proje patika.dev için hazırlanmıştır.
 
